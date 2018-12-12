@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "base-64": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "chart.js": "^2.5.0",
+    "child_process": "^1.0.2",
+    "cluster": "^0.7.7",
+    "cookie-parser": "^1.4.3",
+    "core-js": "^2.5.4",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "exceljs": "^1.6.2",
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "google-spreadsheet": "^2.0.5",
+    "hammerjs": "^2.0.8",
+    "json2xls": "^0.1.2",
+    "mongoose": "^5.2.15",
+    "nodemon": "^1.18.4",
+    "rxjs": "^6.3.2",
+    "table-to-excel": "^1.0.6",
+    "zone.js": "^0.8.26"
+  }
+}

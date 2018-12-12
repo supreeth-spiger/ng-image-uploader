@@ -1,0 +1,14 @@
+
+
+<div class="col-md-12 container-fluid d-inline-flex">
+  <div class="col-md-6">
+    <img [src]="objUrl" height="200"> <br/>
+    <input type='file' (change)="onSelectObjFile($event)"><br/>
+  </div>
+  <div class="col-md-6">
+    <img [src]="sceneUrl" height="200"> <br/>
+    <input type='file' (change)="onSelectSceneFile($event)"><br/>
+  </div>
+
+</div>
+<button type="button" class="btn-primary m-4" (click)="upload()">uploadToServer</button>
