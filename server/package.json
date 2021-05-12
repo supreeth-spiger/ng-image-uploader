@@ -12,7 +12,7 @@
     "async": "^2.6.1",
     "base-64": "^0.1.0",
     "body-parser": "^1.18.3",
-    "chart.js": "^2.5.0",
+    "chart.js": "^2.9.4",
     "child_process": "^1.0.2",
     "cluster": "^0.7.7",
     "cookie-parser": "^1.4.3",
